@@ -22,4 +22,4 @@ To get started with this demo website, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CRM-LAW-fix-v2.git
+git clone https://github.com/koraanserbot/CRM-LAW-fix-v2.git
